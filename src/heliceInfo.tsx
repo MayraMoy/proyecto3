@@ -1,4 +1,3 @@
-// src/components/HeliceInfo.tsx
 
 import React from "react";
 import Helice from "./helice";
