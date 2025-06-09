@@ -1,6 +1,6 @@
 
 import React from "react";
-import Helice from "./helice";
+import Helice from "../modelos/helice";
 
 interface Props {
     cantidad: number;

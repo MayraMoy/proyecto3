@@ -4,15 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import MasterDetail from './masterDetail';
-import HeliceInfo from "./heliceInfo";
+import AeroplanoInfo from "./componentes/AeroplanoInfo";
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <div>
-      <h1>Información de Hélices</h1>
-      <HeliceInfo cantidad={3} />
+      <h1>Información del Aeroplano</h1>
+      <AeroplanoInfo />
   </div>
 );
 
