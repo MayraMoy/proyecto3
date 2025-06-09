@@ -9,3 +9,5 @@ class Turbina {
         return this.numTurbinas + " Turbina/s";
     }
 }
+
+export default Turbina; 

@@ -11,3 +11,5 @@ class Alas {
         return "Alas Frontales: " + this.numAlasFrente + ", Alas Posteriores: " + this.numAlasCola + ".";
     }
 }
+
+export default Alas;

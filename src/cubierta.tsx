@@ -29,3 +29,4 @@ class Cubierta {
         return mensaje;
     }
 }
+export default Cubierta;

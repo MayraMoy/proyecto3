@@ -9,3 +9,5 @@ class Helice {
         return this.numHelices + " hélice/s";
     }
 }
+
+export default Helice;

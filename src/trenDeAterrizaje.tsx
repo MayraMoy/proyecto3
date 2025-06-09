@@ -18,3 +18,5 @@ class TrenDeAterrizaje {
         return mensaje;
     }
 }
+
+export default TrenDeAterrizaje;
